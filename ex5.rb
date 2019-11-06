@@ -1,5 +1,5 @@
-my_name = 'Robert Craig Owen'
-my_age = 48 # not a lie
+my_name = 'Linda Owen'
+my_age = 59 # not a lie
 my_height = 100 # inches
 my_weight = 180 # lbs
 my_eyes = 'Blue'
